@@ -1,0 +1,108 @@
+*{
+    font-family: 'Lobster',Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#header_nav{
+    background-color: #D1E8C3;
+    height: 30px;
+    text-align: center;
+    word-spacing: 60px;
+    vertical-align: middle;
+}
+
+#header_nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#header_nav a:hover{
+    color:#64A23E;
+}
+
+main{
+    background-color:#7FB55E ;
+    height: 900px;
+}
+
+.welcome-text{
+    font-size: 100px;
+    width: 1400px;
+    height: 300px;
+    color: #2D7501;
+    font-family: monospace;
+    text-align: center;
+    border-color: black;
+
+}
+.welcome-text:hover{
+    color: #194200;
+}
+
+.greetings{
+    font-size: 50px;
+    text-align: right;
+    background-color: rgba( 187, 205, 171, 40%);
+    width: 900px;
+    height: 200px;
+    cursor: default;
+}
+
+aside{
+    width: 1440px;
+    height: 400px;
+    text-align: right;
+    word-spacing: 40px;
+    vertical-align: middle;
+}
+
+/*img tags style */
+.aes-pics{
+    height: 100px;
+    width: 100px;
+    text-align: right;
+}
+
+
+footer ul{
+    list-style-type: none;
+}
+
+footer nav{
+    background-image: url(/aesthetic-2.jpeg);
+    width: 1440px;
+    background-position: 4px;
+    background-size: 1000px;
+    font-size: larger;
+
+}
+
+footer nav a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+footer nav a:hover{
+    color: red;
+}
+
+footer>p{
+    height: 30px;
+    text-align: center;
+    background-color: #D5E7C6;
+}
+
+footer p:hover{
+    font-size: x-large;
+}
+
+.footer-socials{
+    color: white;
+}
+
+footer ul{
+    text-align: center;
+}
